@@ -1,0 +1,18 @@
+{
+  "versionCode": 70,
+  "versionName": "3.3.0",
+  "minSupportedVersionCode": 1,
+  "apkUrl": "https://github.com/congson6901/Tai_la_chinh/releases/download/v3.3.0/TaiLaChinh-v3.3.0-build70.apk",
+  "sha256": "95b3d2f8fe543da993ffb8f286cc75947149264c43f07d95b8d0f5880f305716",
+  "fileSize": 19001404,
+  "mandatory": false,
+  "publishedAt": "2026-09-22T10:57:42+07:00",
+  "releaseNotes": [
+    "Hoàn thiện trải nghiệm sử dụng lần đầu",
+    "Cải thiện sao lưu và chuyển máy",
+    "Bổ sung hệ thống cập nhật ứng dụng nội bộ",
+    "Tăng độ ổn định trên Xiaomi / HyperOS",
+    "Cải thiện bảo vệ dữ liệu và xác thực",
+    "Sửa lỗi và tối ưu độ ổn định"
+  ]
+}

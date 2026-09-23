@@ -1,18 +1,16 @@
 {
-  "versionCode": 72,
-  "versionName": "3.3.2",
+  "versionCode": 74,
+  "versionName": "3.3.4",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/Tai_la_chinh/releases/download/v3.3.2/TaiLaChinh-v3.3.2-build72.apk",
-  "sha256": "8ee3c734d2b23f692f3b1244732cb32d6a63acc5b44067ae68b7e2bb2fce6cf7",
-  "fileSize": 19001390,
+  "apkUrl": "https://github.com/congson6901/Tai_la_chinh/releases/download/v3.3.4-build74/TaiLaChinh-v3.3.4-build74.apk",
+  "sha256": "94ea64e7f5321a79fb0993e2e8d6263eb1e672dcbf3789250d902a5df118282e",
+  "fileSize": 19050800,
   "mandatory": false,
-  "publishedAt": "2026-09-23T08:20:00+07:00",
+  "publishedAt": "2026-09-23T14:48:00+07:00",
   "releaseNotes": [
-    "Sửa lỗi điều hướng: Chỉnh sửa giao dịch từ Trang chủ giữ nguyên vị trí, không chuyển nhầm sang Thêm giao dịch",
-    "Chuẩn hóa trải nghiệm bàn phím & tiêu điểm: Tự động ẩn bàn phím khi chạm nền trống hoặc cuộn danh sách",
-    "Bảo toàn dữ liệu nhập: Chuyển đổi chọn ví/danh mục/ngày trong 1 chạm mà không làm mất số tiền hay thông tin đã điền",
-    "Bổ sung cơ chế chống bấm đúp (single-flight debounce guard) cho các nút Lưu và Xóa",
-    "Điều hướng an toàn sau khi xóa ví trong màn hình chi tiết ví",
-    "Kiểm tra hồi quy tài chính trên Golden Dataset hiện tại đạt Operational Financial Drift = 0 đ"
+    "Sao Lưu V2: Thiết lập 1 lần — Sao lưu 1 chạm vào tệp TaiLaChinh_Backup.tlcbackup duy nhất",
+    "Tự động kiểm tra toàn vẹn và khôi phục bản sao lưu an toàn nếu xảy ra lỗi ghi tệp",
+    "Tự động nhận diện giao dịch đổi ví (chuyển khoản nội bộ), không tính nhầm vào Chi tiêu",
+    "Cải thiện bàn phím: chạm ngoài nền hoặc cuộn danh sách để hạ phím tự nhiên"
   ]
 }

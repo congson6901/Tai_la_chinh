@@ -1,15 +1,18 @@
 {
-  "versionCode": 71,
-  "versionName": "3.3.1",
+  "versionCode": 72,
+  "versionName": "3.3.2",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/Tai_la_chinh/releases/download/v3.3.1/TaiLaChinh-v3.3.1-build71.apk",
-  "sha256": "4a61bf243c2655f0a8226296c518ba0f49ba5390997ba11e2c0ab62c67d8eb3d",
-  "fileSize": 19001404,
+  "apkUrl": "https://github.com/congson6901/Tai_la_chinh/releases/download/v3.3.2/TaiLaChinh-v3.3.2-build72.apk",
+  "sha256": "8ee3c734d2b23f692f3b1244732cb32d6a63acc5b44067ae68b7e2bb2fce6cf7",
+  "fileSize": 19001390,
   "mandatory": false,
-  "publishedAt": "2026-09-22T16:40:00+07:00",
+  "publishedAt": "2026-09-23T08:20:00+07:00",
   "releaseNotes": [
-    "Cập nhật nhãn nút đăng nhập tài khoản chuẩn xác và tự nhiên (ĐĂNG NHẬP →)",
-    "Bảo toàn tính tương thích dữ liệu tài chính và xác thực vân tay",
-    "Tối ưu độ mượt mà và ổn định trên HyperOS"
+    "Sửa lỗi điều hướng: Chỉnh sửa giao dịch từ Trang chủ giữ nguyên vị trí, không chuyển nhầm sang Thêm giao dịch",
+    "Chuẩn hóa trải nghiệm bàn phím & tiêu điểm: Tự động ẩn bàn phím khi chạm nền trống hoặc cuộn danh sách",
+    "Bảo toàn dữ liệu nhập: Chuyển đổi chọn ví/danh mục/ngày trong 1 chạm mà không làm mất số tiền hay thông tin đã điền",
+    "Bổ sung cơ chế chống bấm đúp (single-flight debounce guard) cho các nút Lưu và Xóa",
+    "Điều hướng an toàn sau khi xóa ví trong màn hình chi tiết ví",
+    "Kiểm tra hồi quy tài chính trên Golden Dataset hiện tại đạt Operational Financial Drift = 0 đ"
   ]
 }

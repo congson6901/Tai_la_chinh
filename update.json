@@ -1,16 +1,13 @@
 {
-  "versionCode": 74,
-  "versionName": "3.3.4",
+  "versionCode": 76,
+  "versionName": "1.0.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/Tai_la_chinh/releases/download/v3.3.4-build74/TaiLaChinh-v3.3.4-build74.apk",
-  "sha256": "94ea64e7f5321a79fb0993e2e8d6263eb1e672dcbf3789250d902a5df118282e",
-  "fileSize": 19050800,
+  "apkUrl": "https://github.com/congson6901/Tai_la_chinh/releases/download/v1.0.0/TaiLaChinh-v1.0.0-build76.apk",
+  "sha256": "cc68ee3f92ce911fb859b11d41c0f44a6dabb7100971742274aa0e00dc2fdcc0",
+  "fileSize": 19067189,
   "mandatory": false,
-  "publishedAt": "2026-09-23T14:48:00+07:00",
+  "publishedAt": "2026-09-24T07:40:00+07:00",
   "releaseNotes": [
-    "Sao Lưu V2: Thiết lập 1 lần — Sao lưu 1 chạm vào tệp TaiLaChinh_Backup.tlcbackup duy nhất",
-    "Tự động kiểm tra toàn vẹn và khôi phục bản sao lưu an toàn nếu xảy ra lỗi ghi tệp",
-    "Tự động nhận diện giao dịch đổi ví (chuyển khoản nội bộ), không tính nhầm vào Chi tiêu",
-    "Cải thiện bàn phím: chạm ngoài nền hoặc cuộn danh sách để hạ phím tự nhiên"
+    "Tài Là Chính v1.0.0 — phiên bản chính thức đầu tiên. Hoàn thiện giao diện và chuyển động, biểu đồ lịch sử tài sản khả dụng 1W/1M/3M/1Y, Backup V2, chuyển ví nội bộ và các cải tiến độ ổn định."
   ]
 }

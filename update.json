@@ -1,19 +1,19 @@
 {
-  "versionCode": 77,
-  "versionName": "1.0.1",
+  "versionCode": 79,
+  "versionName": "1.0.3",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/Tai_la_chinh/releases/download/v1.0.1/TaiLaChinh-v1.0.1-build77.apk",
-  "sha256": "88FC71D4FD78BD225872B8C9BC25A1A38984192148C466F627D1D614C9A035AB",
-  "fileSize": 19067189,
+  "apkUrl": "https://github.com/congson6901/Tai_la_chinh/releases/download/v1.0.3/TaiLaChinh-v1.0.3-build79.apk",
+  "sha256": "E43D4FA35ABE272DE4E2C6C573974DC321753864E93124E0E96627EA471362BF",
+  "fileSize": 19116342,
   "mandatory": false,
-  "publishedAt": "2026-09-25T10:18:00+07:00",
+  "publishedAt": "2026-09-28T14:37:34+07:00",
   "releaseNotes": [
-    "Làm mới thanh điều hướng dưới theo phong cách Floating Navigation.",
-    "Đồng bộ giao diện Lịch sử, Báo cáo, Chi tiêu tháng, Ví và Cài đặt.",
-    "Cải thiện thao tác Thu vào, Chi ra và Chuyển ví với các mức tiền nhanh.",
-    "Tối ưu hiển thị chu kỳ chi tiêu và tiện ích tài chính.",
-    "Tăng độ chính xác khi nhận diện thông báo giao dịch ngân hàng.",
-    "Khắc phục trường hợp thông báo hotline, OTP và nội dung không phải giao dịch có thể bị nhận diện nhầm.",
-    "Cải thiện độ ổn định và trải nghiệm sử dụng."
+    "Tăng độ chính xác khi đồng bộ giao dịch vay/nợ với biến động tài khoản ngân hàng.",
+    "Ngăn ghi nhận trùng số dư khi giao dịch vay/nợ đồng thời được nhận diện từ thông báo ngân hàng.",
+    "Tự động đối soát giao dịch vay/nợ và biến động ngân hàng khi đủ độ tin cậy.",
+    "Bảo vệ an toàn khi có nhiều giao dịch cùng số tiền bằng cơ chế đối soát thận trọng.",
+    "Cải thiện cơ chế hoàn tác vay/nợ để tránh tạo số dư ngân hàng không có thật.",
+    "Đảm bảo tiền vay và tiền cho vay không bị tính nhầm vào thu nhập hoặc chi tiêu.",
+    "Cải thiện độ ổn định, tính toàn vẹn dữ liệu và khả năng sao lưu/khôi phục."
   ]
 }
